@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="25f0ed81-f48c-4560-97e1-eac4e4982822" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Mercado-Financeiro.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-    </list>
-=======
     <list default="true" id="9f25d8d3-6628-4a27-9261-1f4798eb6205" name="Changes" comment="" />
->>>>>>> 9ae7e33ed943ebe1edf585d17354ccbbd1b7902b
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,11 +13,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-<<<<<<< HEAD
-  <component name="ProjectId" id="27TNm9Ax3Qe5FDC5zurWUb0WJS9" />
-=======
   <component name="ProjectId" id="27TL7iVeaX7IOvsLrslpl8ZhJmB" />
->>>>>>> 9ae7e33ed943ebe1edf585d17354ccbbd1b7902b
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,27 +26,6 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-<<<<<<< HEAD
-      <changelist id="25f0ed81-f48c-4560-97e1-eac4e4982822" name="Changes" comment="" />
-      <created>1649340272232</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1649340272232</updated>
-    </task>
-    <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-=======
       <changelist id="9f25d8d3-6628-4a27-9261-1f4798eb6205" name="Changes" comment="" />
       <created>1649338963307</created>
       <option name="number" value="Default" />
@@ -70,5 +34,4 @@
     </task>
     <servers />
   </component>
->>>>>>> 9ae7e33ed943ebe1edf585d17354ccbbd1b7902b
 </project>
