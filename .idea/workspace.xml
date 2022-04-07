@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f25d8d3-6628-4a27-9261-1f4798eb6205" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Mercado-Financeiro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Mercado-Financeiro.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_41__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_41__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_41__Changes_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_41__Changes_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_59__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_07_04_2022_11_59__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Análise Fundamentalista IA/Análise Fundamentalista com IA.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leitor de Nota de Corretagem/Leitor de Nota de Corretagem.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leitor de Nota de Corretagem/NotaCorretagem_01-01-22_31-01-22.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leitor de Nota de Corretagem/NotaCorretagem_01-02-22_28-02-22.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/investing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
