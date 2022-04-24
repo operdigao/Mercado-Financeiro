@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-s = Service('C:/Users/Robson/anaconda3/chromedriver.exe')
+s = Service('C:/Users/COLOQUE O NOME DE USUÁRIO/anaconda3/chromedriver.exe') #ALTERAR
 driver = webdriver.Chrome(service=s)
 driver.get("https://statusinvest.com.br/acoes/busca-avancada")
 wait = WebDriverWait(driver, 10)
@@ -35,8 +35,8 @@ sleep(5)  #tempo necessário para efetuar o download antes de fechar o navegador
 driver.close()
 
 #Move o arquivo da pasta Downloads para a pasta Databases
-atual = r'C:\Users\Robson\OneDrive\Downloads\statusinvest-busca-avancada.csv'
-caminhoDatabases = r'C:\Users\Robson\OneDrive\Documentos\Python\Fortune Investimentos\Fórmula Mágica\Databases\statusinvest-busca-avancada'
+atual = r'C:COLOQUE O CAMINHO DA PASTA DE DOWNLOADS\Downloads\statusinvest-busca-avancada.csv' #ALTERAR
+caminhoDatabases = r'C:COLOQUE O CAMINHO DA PASTA DA FÓRMULA MÁGICA\Databases\statusinvest-busca-avancada'#ALTERAR
 destino = caminhoDatabases + '.csv'
 shutil.move(atual, destino)
 
