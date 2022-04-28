@@ -4,7 +4,6 @@ from time import sleep
 def linha(tam=80):
     return '-' * tam
 
-
 def cabeçalho(txt):
     sleep(1.5)
     print(linha())

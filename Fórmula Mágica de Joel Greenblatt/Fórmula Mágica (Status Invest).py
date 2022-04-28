@@ -8,9 +8,8 @@ from time import sleep
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-from tkinter import *
 
-Tk()
+
 s = Service('C:/Users/Robson/anaconda3/chromedriver.exe') #ALTERAR O CAMINHO
 driver = webdriver.Chrome(service=s)
 driver.get("https://statusinvest.com.br/acoes/busca-avancada")
@@ -65,4 +64,5 @@ rank = t.dropna(axis=1).sum()
 print(rank)
 
 cabeçalho('RANKING FINAL DA FÓRMULA MÁGICA')
-print(rank.sort_values()[:20])
+rank = rank.sort_values()[:10]
+print(rank)
